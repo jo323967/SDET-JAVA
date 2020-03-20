@@ -1,0 +1,2 @@
+module sdet_java {
+}
